@@ -1,0 +1,14 @@
+.nav li {
+    list-style-type: none;
+    flex: 1;
+}
+.text1{
+    text-decoration: none;
+    color:white
+}
+.nav{
+    display: flex;
+    background-color: black;
+    margin: 0px;
+    padding: 10px;
+}

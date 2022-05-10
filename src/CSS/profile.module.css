@@ -1,0 +1,66 @@
+.first{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+
+}
+.t1{
+    border: 2px solid black;
+}
+.input{
+    display: block;
+}
+.label{
+    font-weight: bold;
+}
+.form{
+    border: 2px solid black;
+    padding: 15px;
+    margin: 45px;
+    width: 300px;
+    height: 250px;
+}
+.h1{
+    font-weight: bold;
+}
+.headers1{
+    background-color: grey;
+    
+    display: flex;
+    height: 70px;
+    margin: 0px;
+}
+.headers2{
+    
+    list-style-type: none;
+    flex: 1;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.headers3{
+    text-decoration: none;
+    color: white;
+}
+.card{
+    border: 1px solid black;
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 200px;
+    max-width: 200px;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+.carding{
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.head1{
+    display: flex;
+}
+.head2{
+    flex-wrap: wrap;
+}

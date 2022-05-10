@@ -1,0 +1,12 @@
+tr td{
+    font-weight: bold;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+   
+    text-align: center;
+    border: 5px solid wheat;
+}
+table{
+    margin: 15px;
+}

@@ -1,0 +1,26 @@
+.card{
+    border: 1px solid black;
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 200px;
+    max-width: 200px;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+.carding{
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.head1{
+    display: flex;
+}
+.head2{
+    flex-wrap: wrap;
+}
+.underline{
+    text-decoration: none;
+
+}
